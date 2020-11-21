@@ -1,4 +1,3 @@
-module lab3 
 import java.util.Scanner;
 import java.lang.Math;     // Note: Needed for math functions in part (3)
 
